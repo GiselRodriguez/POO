@@ -1,4 +1,0 @@
-Camilo;Felipe;22.0;400.0;
-Olivia;Luana;16.0;400.0;
-Pedro;Maria;15.0;340.0;
-Nico;Marta;25.0;180.0;
